@@ -24,7 +24,8 @@ Get a free API key at [telonex.io](https://telonex.io).
 
 | Notebook | Description |
 |----------|-------------|
-| [top_15m_crypto_traders](research/top_15m_crypto_traders/top_15m_crypto_traders.ipynb) | Analysis of 46,945 wallets across 2,688 Polymarket 15-minute crypto markets — [read the article](http://telonex.io/research/top-crypto-traders-polymarket-15m) |
+| [liquidity_rewards_jesus](research/liquidity_rewards_jesus/liquidity_rewards_jesus.ipynb) | How $70K in sponsored rewards reshaped depth, execution, and maker behavior on the Jesus market - [read the article](https://telonex.io/research/sponsored-liquidity-rewards-jesus-market) |
+| [top_15m_crypto_traders](research/top_15m_crypto_traders/top_15m_crypto_traders.ipynb) | Analysis of 46,945 wallets across 2,688 Polymarket 15-minute crypto markets - [read the article](https://telonex.io/research/top-crypto-traders-polymarket-15m) |
 
 ## License
 
